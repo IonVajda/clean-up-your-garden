@@ -1,0 +1,23 @@
+{
+  "name": "clean-up-your-garden",
+  "version": "1.0.0",
+  "description": "You have stumbled across the divine pleasure that is owning a dog and a garden. Now time to pick up all the cr@p! 😄 <br />\r Given a 2D array to represent your garden, you must find and collect all of the dog cr@p - represented by `@`.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IonVajda/clean-up-your-garden.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IonVajda/clean-up-your-garden/issues"
+  },
+  "homepage": "https://github.com/IonVajda/clean-up-your-garden#readme",
+  "dependencies": {
+    "jest": "^27.0.6"
+  }
+}
